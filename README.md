@@ -1,1 +1,1 @@
-/cppm-42/03_classes/o1_calc/main.cpp  - Задача 1. Калькулятор двух чисел.
+/cppm-42/03_classes/01_calc/main.cpp  - Задача 1. Калькулятор двух чисел.
