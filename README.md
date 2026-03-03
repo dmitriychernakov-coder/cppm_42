@@ -5,3 +5,8 @@
 Домашнее задание к занятию «ООП. Абстракция и инкапсуляция»
 /cppm_42/04_abstract_incaps/01_addresses - Задача 1. Адреса
 /cppm_42/04_abstract_incaps/02_sort_address - Задача 2. Сортируем адреса
+
+Домашнее задание к занятию «ООП: наследование и полиморфизм»
+/cppm_42/05_inherit_polymorph/01_figure_side_count - Задача 1. Фигуры. Количество сторон
+/cppm_42/05_inherit_polymorph/02_figure_side_angle - Задача 2. Фигуры. Стороны и углы
+/cppm_42/05_inherit_polymorph/03_figure_method - Задача 3. Фигуры. Методы
