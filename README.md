@@ -15,3 +15,7 @@
 /cppm_42/06_multi_files/01_math_functions - Задача 1. Математические функции
 /cppm_42/06_multi_files/02_class_header - Задача 2. Класс
 /cppm_42/06_multi_files/03_hierarchy - Задача 3. Иерархия классов
+
+Домашнее задание к занятию «Препроцессор и макросы»
+/cppm_42/07_directives/01_preprocessor/main.cpp - Задача 1. Препроцессорные директивы
+/cppm_42/07_directives/02_macros/main.cpp - Задача 2. Макрос SUB
