@@ -1,6 +1,6 @@
+#pragma once
 #include "equtriangle.hpp"
 //#include "figure.hpp"
-//#include "headers.hpp"
 #include "isotriangle.hpp"
 #include "parallelogram.hpp"
 //#include "qudrangle.hpp"
@@ -9,4 +9,3 @@
 #include "romb.hpp"
 #include "square.hpp"
 //#include "triangle.hpp"
-#pragma once

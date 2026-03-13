@@ -1,5 +1,5 @@
-#include "qudrangle.hpp"
 #pragma once
+#include "qudrangle.hpp"
 
 class Parallelogram : public Quadrangle {
 public:

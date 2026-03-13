@@ -1,5 +1,5 @@
-#include "qudrangle.hpp"
 #pragma once
+#include "qudrangle.hpp"
 
 class Romb : public Quadrangle {
 public:

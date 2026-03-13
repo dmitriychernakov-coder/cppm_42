@@ -1,5 +1,5 @@
-#include "triangle.hpp"
 #pragma once
+#include "triangle.hpp"
 
 class IsoTriangle : public Triangle {
 public:

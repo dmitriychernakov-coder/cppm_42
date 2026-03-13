@@ -1,6 +1,5 @@
-
-#include "figure.hpp"
 #pragma once
+#include "figure.hpp"
 
 class Triangle : public Figure {
 protected:

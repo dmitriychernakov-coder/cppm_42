@@ -1,6 +1,6 @@
+#pragma once
 #include <iostream>
 #include "figure.hpp"
-#pragma once
 
 class Quadrangle : public Figure {
 protected:
